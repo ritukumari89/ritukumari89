@@ -3,7 +3,7 @@ I am <b>Ritu Kumari</b> pursuing my <b>Computer Science and Engineering Degree</
 <h3 align="center"> Paasionate UI UX Developer | Web Development Enthusiast  </h3>
 <img width="40%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ritukumari89&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
