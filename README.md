@@ -32,7 +32,7 @@ I have learned UI UX-development and having knowledge of HTML,CSS & Javascript.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritukumari89&theme=dark" alt="ritukumari89" /></p>
   </div>
 
- [![ritukumari89's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ritukumari89&theme=xcode)](https://git.io/ritukumari89)
+[![NageshMandal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NageshMandal&theme=xcode)](https://git.io/NageshMandal)
    
    
 
